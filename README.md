@@ -2,7 +2,7 @@
 
 <h2> Linguagens </h2>
 
-<p> React e TypeScript </p>
+<h3> React e TypeScript </h3>
 
 <p>Criar projeto</p>
 
